@@ -3289,12 +3289,12 @@
 #     elif os.path.isdir(p):
 #         print(f'{obj} - dir')
 
-class Point:
-    x = 1
-    y = 1
-
-
-p1 = Point()
-print(p1.x)
-print(type(p1))
-print(dir(Point))
+# class Point:
+#     x = 1
+#     y = 1
+#
+#
+# p1 = Point()
+# print(p1.x)
+# print(type(p1))
+# print(dir(Point))
